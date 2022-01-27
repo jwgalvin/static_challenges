@@ -10,7 +10,7 @@
   }
 .landmarks {
   float: left;
-  background-color: black;
+  background-color: Black;
   width: 90%;
   text-indent: 20px;
   font-size: 1.75em;
@@ -19,6 +19,32 @@
 .login {
   float: right;
   text-align: center;
-  background-color: rgba(255, 0, 0, 0.5);
+  background-color: green;
   width:10%;
   }
+.header2 {
+  box-sizing: border-box;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 15px;
+  background-color: navy blue;
+  border-style: solid none solid none;
+  border-color: white;
+  border-width: thin;
+  padding: 20px;
+  word-spacing: 15em;
+  font-family: Ariel, sans-serif;
+  }
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  }
+.top-left {
+  position: absolute;
+  top: 25px;
+  left: 35px;
+  font-family: Ariel, sans-serif;
+  font-size: 30px;
+  font-weight: 550px;
+}
