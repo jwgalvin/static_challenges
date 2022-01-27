@@ -1,0 +1,24 @@
+.header1 {
+  clear: both;
+  font-family: Ariel, Helvetica, sans-serif;
+  color: white;
+  height: 60px;
+  line-height: 60px;
+  width: 100%;
+  border-style: none none solid none;
+  border-color: white;
+  }
+.landmarks {
+  float: left;
+  background-color: black;
+  width: 90%;
+  text-indent: 20px;
+  font-size: 1.75em;
+  font-weight: bold;
+  }
+.login {
+  float: right;
+  text-align: center;
+  background-color: rgba(255, 0, 0, 0.5);
+  width:10%;
+  }
